@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="62de0b64-2611-4c48-ada6-ff053940ff6e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/django_shop/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django_shop/cart/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django_shop/cart/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django_shop/cart/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django_shop/cart/cart_services.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django_shop/cart/context_processors.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django_shop/cart/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django_shop/cart/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django_shop/cart/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django_shop/cart/templates/cart/detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django_shop/cart/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django_shop/cart/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django_shop/cart/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django_shop/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django_shop/debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django_shop/django_shop/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django_shop/django_shop/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django_shop/django_shop/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django_shop/django_shop/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django_shop/django_shop/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django_shop/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django_shop/media/0beaeca2c9d64ccea6aead8e014ef881_9366.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django_shop/media/129b1869b0f04f71b854adbf00e548a4_9366.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django_shop/media/40469580a52c4583b5baadd8004b7d25_9366.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django_shop/media/4fe15409d784433f8e7fadeb010511a6_9366.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django_shop/media/5952fc0549344b3db914ad9a00d873ee_9366.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django_shop/media/5c68136e07b84fca9e47add901056ffc_9366.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django_shop/media/66eb91aa797c4e2a9dd2ae0b00d31e57_9366.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django_shop/media/6bf10521746b4eddb35faa2c012194bc_9366.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django_shop/media/8a5509d582a04bbaaff0ad2700685656_9366.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django_shop/media/8d7194e3764646c8b166add700b7fb9d_9366.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django_shop/media/Krossovki_ZX_5K_BOOST_rozovyj_GZ7876_01_standard.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django_shop/media/a206a270694c4b6897e1aaee010441d1_9366.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django_shop/media/cf41c0428d66424d8a9babb500962054_9366.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django_shop/media/d40407ba8fcc4b6db269adac00f92381_9366.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django_shop/orders/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django_shop/orders/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django_shop/orders/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django_shop/orders/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django_shop/orders/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django_shop/orders/migrations/0002_alter_order_address_alter_order_city_and_more.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django_shop/orders/migrations/0003_alter_order_created_alter_order_paid_and_more.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django_shop/orders/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django_shop/orders/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django_shop/orders/templates/orders/create.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django_shop/orders/templates/orders/created.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django_shop/orders/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django_shop/orders/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django_shop/orders/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django_shop/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django_shop/shop/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django_shop/shop/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django_shop/shop/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django_shop/shop/context_processors.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django_shop/shop/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django_shop/shop/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django_shop/shop/migrations/0002_alter_product_image.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django_shop/shop/migrations/0003_alter_product_image.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django_shop/shop/migrations/0004_alter_product_image.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django_shop/shop/migrations/0005_review.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django_shop/shop/migrations/0006_alter_category_options_alter_product_options.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django_shop/shop/migrations/0007_alter_product_available_alter_review_author_and_more.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django_shop/shop/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django_shop/shop/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django_shop/shop/static/shop/css/base.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django_shop/shop/static/shop/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django_shop/shop/static/shop/img/12.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django_shop/shop/static/shop/img/no_image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django_shop/shop/templates/shop/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django_shop/shop/templates/shop/product/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django_shop/shop/templates/shop/product/detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django_shop/shop/templates/shop/product/feedback.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django_shop/shop/templates/shop/product/list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django_shop/shop/templates/shop/product/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django_shop/shop/templates/shop/product/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django_shop/shop/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django_shop/shop/tests/test_forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django_shop/shop/tests/test_models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django_shop/shop/tests/test_views_urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django_shop/shop/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django_shop/shop/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django_shop/shop/views.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/django_shop" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2S6scksFYDNUw8GeKNrhZCWAwMa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "inlay.hints",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="62de0b64-2611-4c48-ada6-ff053940ff6e" name="Changes" comment="" />
+      <created>1688478448526</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1688478448526</updated>
+      <workItem from="1688478453580" duration="4996000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
